@@ -1,0 +1,5 @@
+# The below API gives the data about Transportation Laws and Incentives:
+https://developer.nrel.gov/api/transportation-incentives-laws/v1.json?api_key=3oMuzeeRhaYCTCgOyMaWMUtRmkTGPgLqa24CjIs3&expired=false&incentive_type=GNT%2CTAX%2CLOANS%2CRBATE%2CEXEM%2CTOU%2COTHER&law_type=INC%2CPROG%2CLAWREG%2CSTATEINC%2CUPINC&regulation_type=REQ%2CDREST%2CREGIS%2CEVFEE%2CFUEL%2CSTD%2CRFS%2CAIRQEMISSIONS%2CCCEINIT%2CUTILITY%2CBUILD%2CRTC%2COTHER&technology=BIOD%2CETH%2CNG%2CLPG%2CHY%2CELEC%2CPHEV%2CHEV%2CNEVS%2CRD%2CAFTMKTCONV%2CEFFEC%2CIR%2CAUTONOMOUS%2COTHER&user_type=FLEET%2CGOV%2CTRIBAL%2CIND%2CSTATION%2CAFP%2CPURCH%2CMAN%2CMUD%2CTRANS%2COTHER
+
+# The below API gives the data about Light duty vehicles:
+https://developer.nrel.gov/api/vehicles/v1/light_duty_automobiles.json?api_key=3oMuzeeRhaYCTCgOyMaWMUtRmkTGPgLqa24CjIs3&download=true
